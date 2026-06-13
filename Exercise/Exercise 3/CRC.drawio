@@ -1,0 +1,418 @@
+<mxfile host="Electron">
+  <diagram name="Seite-1" id="OmBn0PO-aFL1G-PmuoI6">
+    <mxGraphModel dx="1032" dy="1205" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="240" width="340" x="130" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-33" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="299.5" y="370" />
+            </Array>
+            <mxPoint x="299.5" y="190" as="sourcePoint" />
+            <mxPoint x="299.5" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-35" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="300" y="190" as="sourcePoint" />
+            <mxPoint x="130" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-37" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="470" y="190" as="sourcePoint" />
+            <mxPoint x="300" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-38" edge="1" parent="1" source="z6Bj6P4MVlqOVvMHsfeL-30" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.131;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="210" as="sourcePoint" />
+            <mxPoint x="470" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="User" vertex="1">
+          <mxGeometry height="30" width="250" x="180" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Responsibility" vertex="1">
+          <mxGeometry height="30" width="150" x="140" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Collaboration" vertex="1">
+          <mxGeometry height="30" width="140" x="310" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- SubscriptionController&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;- Notification (as recipient)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="130" x="320" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- stores personal data (userID, email etc.)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-can list all subscribed websites&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- receives notification&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="150" x="140" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="240" width="340" x="500" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-45" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="669.5" y="370" />
+            </Array>
+            <mxPoint x="669.5" y="190" as="sourcePoint" />
+            <mxPoint x="669.5" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-46" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="670" y="190" as="sourcePoint" />
+            <mxPoint x="500" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-47" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="840" y="190" as="sourcePoint" />
+            <mxPoint x="670" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-48" edge="1" parent="1" source="z6Bj6P4MVlqOVvMHsfeL-44" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.131;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="790" y="210" as="sourcePoint" />
+            <mxPoint x="840" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="WebsiteMonitor" vertex="1">
+          <mxGeometry height="30" width="250" x="550" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Responsibility" vertex="1">
+          <mxGeometry height="30" width="150" x="510" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Collaboration" vertex="1">
+          <mxGeometry height="30" width="140" x="680" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Website&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Subscription&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- SubscriptionController&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-DashboardUI&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="130" x="690" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- manage list of websites and views for DashboardUI&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- monitors website&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- create snapshots&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- fetches and compares content with HTTP Client&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="130" x="520" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="240" width="340" x="870" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-56" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1039.5" y="370" />
+            </Array>
+            <mxPoint x="1039.5" y="190" as="sourcePoint" />
+            <mxPoint x="1039.5" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-57" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1040" y="190" as="sourcePoint" />
+            <mxPoint x="870" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-58" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1210" y="190" as="sourcePoint" />
+            <mxPoint x="1040" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-59" edge="1" parent="1" source="z6Bj6P4MVlqOVvMHsfeL-55" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.131;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1160" y="210" as="sourcePoint" />
+            <mxPoint x="1210" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Website" vertex="1">
+          <mxGeometry height="30" width="250" x="920" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Responsibility" vertex="1">
+          <mxGeometry height="30" width="150" x="880" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-62" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Collaboration" vertex="1">
+          <mxGeometry height="30" width="140" x="1050" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- WebsiteMonitor&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="130" x="1060" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-64" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- stores webste data&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- provides current content for comparison&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-manages timestamp of last check&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="130" x="890" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="240" width="340" x="130" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-66" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="299.5" y="640" />
+            </Array>
+            <mxPoint x="299.5" y="460" as="sourcePoint" />
+            <mxPoint x="299.5" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-67" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="300" y="460" as="sourcePoint" />
+            <mxPoint x="130" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-68" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="470" y="460" as="sourcePoint" />
+            <mxPoint x="300" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-69" edge="1" parent="1" source="z6Bj6P4MVlqOVvMHsfeL-65" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.131;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="480" as="sourcePoint" />
+            <mxPoint x="470" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Subscription" vertex="1">
+          <mxGeometry height="30" width="250" x="180" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-71" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Responsibility" vertex="1">
+          <mxGeometry height="30" width="150" x="140" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-72" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Collaboration" vertex="1">
+          <mxGeometry height="30" width="140" x="310" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-73" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- SubscriptionController&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- WebsiteMonitor&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="130" x="320" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-74" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- stores subscription data" vertex="1">
+          <mxGeometry height="140" width="130" x="150" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-75" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="240" width="340" x="500" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-76" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="669.5" y="640" />
+            </Array>
+            <mxPoint x="669.5" y="460" as="sourcePoint" />
+            <mxPoint x="669.5" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-77" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="670" y="460" as="sourcePoint" />
+            <mxPoint x="500" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-78" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="840" y="460" as="sourcePoint" />
+            <mxPoint x="670" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-79" edge="1" parent="1" source="z6Bj6P4MVlqOVvMHsfeL-75" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.131;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="790" y="480" as="sourcePoint" />
+            <mxPoint x="840" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-80" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Notifiaction" vertex="1">
+          <mxGeometry height="30" width="250" x="550" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-81" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Responsibility" vertex="1">
+          <mxGeometry height="30" width="150" x="510" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-82" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Collaboration" vertex="1">
+          <mxGeometry height="30" width="140" x="680" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-83" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- User&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- SubscriptionController&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- SMS, Email (subclasses)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="130" x="690" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-84" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- common behaviour for all notification&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- stores notification data (frequency, message etc.)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- sends messages&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- manage send status&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="130" x="520" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="240" width="340" x="870" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-86" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1039.5" y="640" />
+            </Array>
+            <mxPoint x="1039.5" y="460" as="sourcePoint" />
+            <mxPoint x="1039.5" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-87" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1040" y="460" as="sourcePoint" />
+            <mxPoint x="870" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-88" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1210" y="460" as="sourcePoint" />
+            <mxPoint x="1040" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-89" edge="1" parent="1" source="z6Bj6P4MVlqOVvMHsfeL-85" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.131;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1160" y="480" as="sourcePoint" />
+            <mxPoint x="1210" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-90" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SMS" vertex="1">
+          <mxGeometry height="30" width="250" x="920" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-91" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Responsibility" vertex="1">
+          <mxGeometry height="30" width="150" x="880" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-92" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Collaboration" vertex="1">
+          <mxGeometry height="30" width="140" x="1050" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-93" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- Notification&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- User&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="130" x="1060" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-94" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- SMS delivery&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- stores phone number&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="130" x="890" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-95" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="240" width="340" x="130" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-96" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="299.5" y="910" />
+            </Array>
+            <mxPoint x="299.5" y="730" as="sourcePoint" />
+            <mxPoint x="299.5" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-97" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="300" y="730" as="sourcePoint" />
+            <mxPoint x="130" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-98" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="470" y="730" as="sourcePoint" />
+            <mxPoint x="300" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-99" edge="1" parent="1" source="z6Bj6P4MVlqOVvMHsfeL-95" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.131;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="750" as="sourcePoint" />
+            <mxPoint x="470" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-101" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Responsibility" vertex="1">
+          <mxGeometry height="30" width="150" x="140" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-102" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Collaboration" vertex="1">
+          <mxGeometry height="30" width="140" x="310" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-103" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- Notification&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- User&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="130" x="320" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-104" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- Email delivery&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- stores email adress&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="130" x="150" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-105" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="240" width="340" x="500" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-106" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="669.5" y="910" />
+            </Array>
+            <mxPoint x="669.5" y="730" as="sourcePoint" />
+            <mxPoint x="669.5" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-107" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="670" y="730" as="sourcePoint" />
+            <mxPoint x="500" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-108" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="840" y="730" as="sourcePoint" />
+            <mxPoint x="670" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-109" edge="1" parent="1" source="z6Bj6P4MVlqOVvMHsfeL-105" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.131;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="790" y="750" as="sourcePoint" />
+            <mxPoint x="840" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-110" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SubscriptionController" vertex="1">
+          <mxGeometry height="30" width="250" x="550" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-111" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Responsibility" vertex="1">
+          <mxGeometry height="30" width="150" x="510" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-112" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Collaboration" vertex="1">
+          <mxGeometry height="30" width="140" x="680" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-113" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- Subscription&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- WebsiteMonitor&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="130" x="690" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-114" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- enables loose coupling&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- registers user&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- manages subscription (adding, deleting subs)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- notifies Notification when when WebsiteMonitor detects changes&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="130" x="520" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-115" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="240" width="340" x="870" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-116" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1039.5" y="910" />
+            </Array>
+            <mxPoint x="1039.5" y="730" as="sourcePoint" />
+            <mxPoint x="1039.5" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-117" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1040" y="730" as="sourcePoint" />
+            <mxPoint x="870" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-118" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1210" y="730" as="sourcePoint" />
+            <mxPoint x="1040" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-119" edge="1" parent="1" source="z6Bj6P4MVlqOVvMHsfeL-115" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.131;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1160" y="750" as="sourcePoint" />
+            <mxPoint x="1210" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-120" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Dashboard (UI)" vertex="1">
+          <mxGeometry height="30" width="250" x="920" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-121" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Responsibility" vertex="1">
+          <mxGeometry height="30" width="150" x="880" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-122" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Collaboration" vertex="1">
+          <mxGeometry height="30" width="140" x="1050" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-123" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- WebsiteMonitor&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="130" x="1060" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Bj6P4MVlqOVvMHsfeL-124" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- displays websites, subscriptions&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- reacts to updates from notification&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- updates the UI on change&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="130" x="890" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="6d1AQWAC9tnJE0o7Athr-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Email" vertex="1">
+          <mxGeometry height="30" width="60" x="270" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="6d1AQWAC9tnJE0o7Athr-2" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;CRC cards&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="50" width="180" x="130" y="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
