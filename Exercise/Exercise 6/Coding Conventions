@@ -1,0 +1,31 @@
+###Naming of Methods
+
+All method names follow Java camelCase and use descriptive verb phrases as recommended:
+
+checkWebsite(), checkAllWebsites() – clearly communicate the action performed
+notifyObservers(), attach(), detach() – standard Observer pattern vocabulary
+addSubscription(), deleteSubscription() – follow domain-specific naming
+setStrategy(), compare(snapshot1, snapshot2) – reflect the Strategy pattern intent
+fetchContent(), compareSnapshots() – self-documenting, no abbreviations
+
+
+###Naming of Classes
+
+All class names use PascalCase and describe the entity they represent:
+
+WebsiteMonitor, SubscriptionController – noun phrases indicating role
+ContentSizeStrategy, HtmlContentStrategy, TextContentStrategy – clearly communicate the algorithm variant
+
+
+###Structural Organisation
+
+The project is separated into logical packages reflecting different responsibilities:
+
+model – data classes (Website, User, Subscription)
+controller – application logic (WebsiteMonitor, SubscriptionController)
+notification – output classes (Notification, Email, SMS)
+strategy – comparison algorithms (Strategy interface + 3 implementations)
+
+This separation supports Separation of Concerns (SoC) and High Cohesion from GRASP.
+
+Packages are now with all-lowercase package names.
