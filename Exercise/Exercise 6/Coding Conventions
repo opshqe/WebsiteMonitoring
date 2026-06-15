@@ -9,12 +9,14 @@ setStrategy(), compare(snapshot1, snapshot2) – reflect the Strategy pattern in
 fetchContent(), compareSnapshots() – self-documenting, no abbreviations
 
 
+
 Naming of Classes
 
 All class names use PascalCase and describe the entity they represent:
 
 WebsiteMonitor, SubscriptionController – noun phrases indicating role
 ContentSizeStrategy, HtmlContentStrategy, TextContentStrategy – clearly communicate the algorithm variant
+
 
 
 Structural Organisation
