@@ -1,0 +1,43 @@
+**## Comparison of mainframe and cloud computing**
+
+The shift from mainframes to cloud computing happened due to advancements in internet technology, cost efficiency, and scalability needs. Mainframes were expensive and inflexible, while the cloud offered pay-as-you-go pricing, global accessibility, and elastic resources. 
+Additionally, the rise of distributed systems, virtualization and demand for faster e-commerce solutions made cloud computing the preferred choice for modern businesses like Amazon.
+
+Cloud:
+- Not owning, but renting
+- Rapid elasticity and scalability
+- Pay as you go model
+- Parallelization is possible with quantum computing
+
+Mainframe:
+- Limited Access
+- Centralised Data
+- High cost
+
+
+**## Comparison of cloud architecture and my implementation**
+
+"Use Scalable Ingredients" while in my code I use Single-machine execution, in cloud computing it would be massively scalable. 
+My program would be limited by local resources, and on the other side the cloud computing can be elastic scaled.
+
+Resilient to eeboot and eeLaunch. In my code I have basic error handling; in cloud there is automatic recovery. 
+I have no built-in redundancy (if the app crashes, state is lost), while cloud ensures message durability and state tracking.
+
+Results and costs: I have only my hardware costs. In cloud I would pay-per-use. 
+I would waste resources in the cloud with the EC2 if my system is idle and no one going to use this website monitor application. 
+However, there is still the option of autoscaling a EC2 instance.
+
+
+In cloud, the program could process millions of documents in parallel. I have single-threaded content checks. In could it could be multi-node processing.
+
+Loose Coupling:  In my code I use observer pattern which decouples website, notification and GUI. 
+SQS queues decouple producer and consumer components, so that e.g. a monitoring service and a notification service operate independently without direct dependencies.
+
+
+Broad network access AWS:
+- Amazon S3 acts as an input as well as an output data store.
+- Amazon SQS was used as message-passing mechanism between components. It also acts as a transient buffer between two components (controllers).
+- Amazon SimpleDB is used as a status database to store the different states of the components and a historical/log database for querying high performance data.
+- Hadoop is an open source distributed processing framework that allows computation of large datasets by splitting the dataset into manageable chunks, spreading it across a fleet of machines and managing the overall process by launching jobs. 
+Processing the job no matter where the data is physically located and at the end aggregating the job output into a final result.
+
