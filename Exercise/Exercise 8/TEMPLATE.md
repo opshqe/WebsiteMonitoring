@@ -33,41 +33,34 @@
 
 
 
-## 4.Which tool is commonly used to orchestrate CICD pipelines?
+## 4. Which tool is commonly used to orchestrate CICD pipelines?
 
-- 
-
-### ✍️ Authors
-
-Mention who you are and link to your GitHub or organization's website.
+- Jenkins is specifically designed to orchestrate CI/CD pipelines
+- It automates the process of building, testing, and deploying code whenever a developer pushes changes
+- Jenkins pipeline looks like this: Code Push → Build → Test → Deploy
 
 
-## 🚀 Usage
 
-*Show off what your software looks like in action! Try to limit it to one-liners if possible and don't delve into API specifics.*
+## 5.
 
-```py
->>> import mypackage
->>> mypackage.do_stuff()
-'Oh yeah!'
+- Run tests in parallel across multiple workers/machines
+- prioritize fast tests: Run quick unit tests first, then slower integration/E2E tests
+- Cache dependencies (e.g., Maven/Gradle, npm, pip) to avoid re-downloading
+- Reuse build artifacts from previous stages instead of rebuilding
+- Use in-memory databases (e.g., H2 for Java, SQLite for lightweight tests)
+- Minimize test data (only generate what’s necessary). Reuse database state instead of rebuilding it for every test
+- Set strict timeouts so that hanging tests don't block the pipeline, and detect flaky tests that randomly fail and waste time
+
+
+
+
+*Dockerfile*
+
+```java
+>>> FROM amazoncorretto:21
+WORKDIR /app
+COPY . .
+RUN find . -name "*.java" > sources.txt && javac @sources.txt
+ENTRYPOINT ["java", "Main"]
+>>> 
 ```
-
-
-## ⬇️ Installation
-
-Simple, understandable installation instructions!
-
-```bash
-pip install my-package
-```
-
-And be sure to specify any other minimum requirements like Python versions or operating systems.
-
-*You may be inclined to add development instructions here, don't.*
-
-
-## 💭 Feedback and Contributing
-
-Add a link to the Discussions tab in your repo and invite users to open issues for bugs/feature requests.
-
-This is also a great place to invite others to contribute in any ways that make sense for your project. Point people to your DEVELOPMENT and/or CONTRIBUTING guides if you have them.
